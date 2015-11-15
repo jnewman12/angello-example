@@ -17,3 +17,11 @@ myModule.factory('AngelloHelper', function() {
 myModule.service('AngelloModel', function() {
 
 });
+
+myModule.controller('AngelloController', function() {
+
+});
+
+myModule.controller('WelcomeController', function() {
+
+});
